@@ -14,7 +14,7 @@ github_username: "TheHolyTachanka"
 youtube_username: TheHolyTachanka
 #googleplus_username: +username
 
-theme: "minima"
+theme: jekyll-theme-cayman
 
 rss: rss
 
