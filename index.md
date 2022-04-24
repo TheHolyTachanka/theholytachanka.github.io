@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Im the leader(and only member) of [TeamSlav](https://github.com/TeamSlav) 
+im currently working on [Soviet](https://github.com/Soviet-Linux) 
+idk when and what ill post here so dont expect much
