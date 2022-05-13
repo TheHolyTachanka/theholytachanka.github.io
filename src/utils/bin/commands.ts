@@ -65,7 +65,7 @@ export const github = async (args: string[]): Promise<string> => {
 };
 
 export const linkedin = async (args: string[]): Promise<string> => {
-  window.open(`https://www.linkedin.com/in/${config.social.linkedin}/`);
+  window.open(`https://www.youtube.com/watch?v=dQw4w9WgXcQ`);
 
   return 'Opening linkedin...';
 };
