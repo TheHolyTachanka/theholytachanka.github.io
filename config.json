@@ -6,6 +6,10 @@
   "social": {
     "github": "TheHolyTachanka"
   },
+  "donate_urls": {
+    "paypal": "https://paypal.me/cveinnt",
+    "patreon": "https://patreon.com/cveinnt"
+  },
   "email": "theholytachanka@sovietlinux.ml",
   "ps1_hostname": "Soviet-Linux",
   "ps1_username": "Commie",
