@@ -20,6 +20,12 @@
                     <span x-show="hover" class="inline-block absolute inset-0 w-full h-full bg-gray-900 transform" x-transition:enter="transition ease duration-200" x-transition:enter-start="scale-0" x-transition:enter-end="scale-100" x-transition:leave="transition ease-out duration-300" x-transition:leave-start="scale-100" x-transition:leave-end="scale-0"></span>
                 </span>
             </a>
+            <a href="/blog" class="relative font-medium leading-6 text-gray-600 transition duration-150 ease-out hover:text-gray-800" x-data="{ hover: false }" @mouseenter="hover = true" @mouseleave="hover = false">
+                <span class="block">Blog</span>
+                <span class="inline-block overflow-hidden absolute bottom-0 left-0 -mb-1 w-full h-0.5">
+                    <span x-show="hover" class="inline-block absolute inset-0 w-full h-full bg-gray-900 transform" x-transition:enter="transition ease duration-200" x-transition:enter-start="scale-0" x-transition:enter-end="scale-100" x-transition:leave="transition ease-out duration-300" x-transition:leave-start="scale-100" x-transition:leave-end="scale-0"></span>
+                </span>
+            </a>
         </nav>
     </div>
 </section>
