@@ -1,6 +1,6 @@
 <template>
   <div>
-    <iframe class="absolute w-full h-full" src="https://rss.app/embed/v1/feed/jyERPpDteYPRi7Ky" frameborder="0"></iframe>
+    <iframe class="absolute w-full h-full" src="https://theholytachanka.github.io/Blog/" frameborder="0"></iframe>
   </div>
 
   
